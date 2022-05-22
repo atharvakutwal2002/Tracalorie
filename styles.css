@@ -1,0 +1,12 @@
+footer{
+    padding: 2rem 0rem 2rem 0rem ;
+    background-color: rgb(75, 176, 253);
+    margin-top: 6rem;
+    text-align: center;
+    color: rgb(226, 237, 243);
+
+}
+
+.name{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
